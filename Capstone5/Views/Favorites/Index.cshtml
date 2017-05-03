@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Capstone5.Models.FavoriteBars>
+
+@{
+    ViewBag.Title = "Index";
+}
+<center>
+    <h2>Favorites</h2>
+</center>
+@Styles.Render("~/Content/jquery.dataTables.min.css")
+<h6>Add your favorite bars to the list below!</h6>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="table" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BarName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Specials)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdditionalFeatures)
+            </th>
+            <th>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BarName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Specials)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdditionalFeatures)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.BarsID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.BarsID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.BarsID })
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>

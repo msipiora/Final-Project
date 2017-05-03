@@ -1,0 +1,188 @@
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\ApplicationInsights.config
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\csc.exe
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\vbc.exe
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Capstone5.dll.config
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Capstone5.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Capstone5.pdb
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Antlr3.Runtime.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\EntityFramework.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\EntityFramework.SqlServer.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.Web.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Newtonsoft.Json.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Owin.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Helpers.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Mvc.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Optimization.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Razor.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.WebPages.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\WebGrease.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.Web.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Helpers.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Mvc.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Optimization.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.Razor.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.WebPages.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Antlr3.Runtime.pdb
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Newtonsoft.Json.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\EntityFramework.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\EntityFramework.SqlServer.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone6.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.firsttablesadded.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.Mondaytable.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.Weeklyspecialstospecials.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.Tuesday.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.Wednesday.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.Wednesday1.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.Entireweek.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone6.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.dll
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.pdb
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.favorites.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.update2.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.update3.resources
+C:\Users\Mark\Desktop\Capstone Final\Capstone-master\Capstone5\obj\Debug\Capstone5.Migrations.editedfavorites.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\ApplicationInsights.config
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\csc.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\vbc.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Capstone5.dll.config
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Capstone5.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Capstone5.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Antlr3.Runtime.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\EntityFramework.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\EntityFramework.SqlServer.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.Web.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Newtonsoft.Json.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Owin.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Helpers.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Mvc.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Optimization.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Razor.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.WebPages.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\WebGrease.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.Web.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Helpers.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Mvc.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Optimization.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.Razor.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.WebPages.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Antlr3.Runtime.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Newtonsoft.Json.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\EntityFramework.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\EntityFramework.SqlServer.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone6.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.firsttablesadded.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.Mondaytable.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.Weeklyspecialstospecials.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.Tuesday.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.Wednesday.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.Wednesday1.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.Entireweek.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.favorites.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.update2.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.update3.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.Migrations.editedfavorites.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone6.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.dll
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\FinalCapstone\Capstone5\obj\Debug\Capstone5.pdb

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Capstone5.Models.TuesdayBars>
+
+@{
+    ViewBag.Title = "Index";
+}
+<center>
+<h2>Tuesday Bar Specials</h2>
+</center>
+@Styles.Render("~/Content/jquery.dataTables.min.css")
+<h6>*Busyness ratings are weighted 1 to 5, 5 being the busiest</h6>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="table" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BarName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Specials)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DaytimeBusyness)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EveningBusyness)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NightTimeBusyness)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdditionalFeatures)
+            </th>
+            <th>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BarName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Specials)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DaytimeBusyness)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EveningBusyness)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NightTimeBusyness)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdditionalFeatures)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.BarsID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.BarsID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.BarsID })
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>

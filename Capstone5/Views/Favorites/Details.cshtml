@@ -1,0 +1,42 @@
+﻿@model Capstone5.Models.FavoriteBars
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>FavoriteBars</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BarName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BarName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Specials)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Specials)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdditionalFeatures)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdditionalFeatures)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BarsID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

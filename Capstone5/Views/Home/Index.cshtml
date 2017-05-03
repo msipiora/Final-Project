@@ -1,0 +1,195 @@
+﻿
+<head>
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+        #map {
+            width: 1135px;
+        }
+
+
+        table {
+            font-size: 12px;
+        }
+
+
+        #listing {
+            position: relative;
+            width: 200px;
+            height: 600px;
+            overflow: auto;
+            right: 800px;
+            left: 65px;
+            top: 0px;
+            bottom: 500px;
+            cursor: pointer;
+            overflow-x: hidden;
+        }
+
+        #findbars {
+            position: relative;
+            text-align: right;
+            width: 100px;
+            font-size: 14px;
+            padding: 4px;
+            z-index: 5;
+            background-color: #fff;
+        }
+
+        #locationField {
+            position: relative;
+            width: 190px;
+            height: 25px;
+            left: 108px;
+            top: 0px;
+            z-index: 5;
+            background-color: #fff;
+        }
+
+        #controls {
+            position: relative;
+            left: 300px;
+            width: 140px;
+            top: 0px;
+            z-index: 5;
+            background-color: #fff;
+        }
+
+        #autocomplete {
+            width: 100%;
+        }
+
+        #country {
+            width: 100%;
+        }
+
+        .placeIcon {
+            width: 20px;
+            height: 34px;
+            margin: 4px;
+        }
+
+        .barIcon {
+            width: 24px;
+            height: 24px;
+        }
+
+        #resultsTable {
+            border-collapse: collapse;
+            width: 500px;
+        }
+
+        #rating {
+            font-size: 13px;
+            font-family: Arial Unicode MS;
+        }
+
+        .iw_table_row {
+            height: 18px;
+        }
+
+        .iw_attribute_name {
+            font-weight: bold;
+            text-align: right;
+        }
+
+        .iw_table_icon {
+            text-align: right;
+        }
+    </style>
+</head>
+<div id="findhotels">
+    <h4>Find bars in:
+        </h4>
+</div>
+@if (!User.IsInRole("User")){ 
+<div align="right"><h4>
+    Log-in to access and contribute to the bar database!
+</h4></div>
+}
+<div id="locationField">
+    <input id="autocomplete" ;="Enter a city" type="text" />
+</div>
+<div class="row">
+    <div class="col-sm-9">
+        <div id="map" style="height:600px" ; position:"center"></div>
+    </div>
+    <div class="col-sm-2">
+        <div id="listing">
+            <table id="resultsTable">
+                <tbody id="results"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+<div style="display: none">
+    <div id="info-content">
+        <table>
+            <tr id="iw-url-row" class="iw_table_row">
+                <td id="iw-icon" class="iw_table_icon"></td>
+                <td id="iw-url"></td>
+            </tr>
+            <tr id="iw-address-row" class="iw_table_row">
+                <td class="iw_attribute_name">Address:</td>
+                <td id="iw-address"></td>
+            </tr>
+            <tr id="iw-phone-row" class="iw_table_row">
+                <td class="iw_attribute_name">Telephone:</td>
+                <td id="iw-phone"></td>
+            </tr>
+            <tr id="iw-rating-row" class="iw_table_row">
+                <td class="iw_attribute_name">Rating:</td>
+                <td id="iw-rating"></td>
+            </tr>
+            <tr id="iw-website-row" class="iw_table_row">
+                <td class="iw_attribute_name">Website:</td>
+                <td id="iw-website"></td>
+            </tr>
+            <tr id="iw-opening_hours_sunday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Sunday:</td>
+                <td id="iw-opening_hours_sunday"></td>
+            </tr>
+            <tr id="iw-opening_hours_monday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Monday:</td>
+                <td id="iw-opening_hours_monday"></td>
+            </tr>
+            <tr id="iw-opening_hours_tuesday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Tuesday:</td>
+                <td id="iw-opening_hours_tuesday"></td>
+            </tr>
+            <tr id="iw-opening_hours_wednesday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Wednesday:</td>
+                <td id="iw-opening_hours_wednesday"></td>
+            </tr>
+            <tr id="iw-opening_hours_thursday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Thursday:</td>
+                <td id="iw-opening_hours_thursday"></td>
+            </tr>
+            <tr id="iw-opening_hours_friday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Friday:</td>
+                <td id="iw-opening_hours_friday"></td>
+            </tr>
+            <tr id="iw-opening_hours_saturday-row" class="iw_table_row">
+                <td class="iw_attribute_name">Saturday:</td>
+                <td id="iw-opening_hours_saturday"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+@Scripts.Render("~/Scripts/MapLogic.js")
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWx0QR1pBBg15yq0u5FmcpqWm9jKhLcjQ&libraries=places&callback=initMap" async defer> </script>
+
+<a href="https://www.accuweather.com/en/us/milwaukee-wi/53202/weather-forecast/351543" class="aw-widget-legal">
+    <!--
+    By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
+    -->
+</a><div id="awcc1493070748512" class="aw-widget-current" data-locationkey="351543" data-unit="f" data-language="en-us" data-useip="false" data-uid="awcc1493070748512"></div>
+<script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
+
+
+
